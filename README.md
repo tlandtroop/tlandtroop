@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @tlandtroop
+- 👋 Hi, I’m Tyler! (@tlandtroop)
 - 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning Java, Javascript, HTML, and CSS
+- 🌱 I’m currently learning Java, C++, Python, Javascript, HTML, and CSS
 - 💞️ I’m looking to collaborate on anything!
 
 <!---
