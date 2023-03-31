@@ -16,7 +16,7 @@ I'm currently working on a web application for a senior computer science course 
 
 ### 📫 How to reach me?
 
-You can reach me through email or [LinkedIn](www.linkedin.com/in/tylerlandtroop). I'm always happy to connect with fellow programmers and tech enthusiasts!
+You can reach me through [email](mailto:landtroopt@gmail.com) or [LinkedIn](www.linkedin.com/in/tylerlandtroop). I'm always happy to connect with fellow programmers and tech enthusiasts!
 
 ### ⚡ Fun fact
 
