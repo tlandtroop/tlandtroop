@@ -1,29 +1,31 @@
-## Hi there 👋, I'm Tyler!
+# 🏄‍♂️ Tyler Landtroop
 
-I'm a sophomore studying computer science and passionate about all things tech. I love to explore new technologies and learn new programming languages. I believe that coding is a powerful tool to create innovative solutions that can make a difference in the world.
+**`Computer Science Student @ University of Florida`**
 
-### 🌱 What am I currently learning?
+As a third-year computer science student at the University of Florida, I'm passionate about building a digital world, one coding project at a time. I'm dedicated to the entire software development lifecycle, starting from the initial planning and design stages, and carrying it through to solve practical real-life problems. My journey involves tackling various challenges and honing my coding skills as I work on these projects.
 
-Currently, I'm focusing on mastering data structures and algorithms, full stack web development, and database management. I'm also interested in machine learning and artificial intelligence.
+---
 
-### 💻 What are my technical skills?
+### 🧰 Languages and Tools
 
-My technical skills include programming in languages like Python, Java, C++, and JavaScript. I'm proficient in HTML, CSS, and various web development frameworks like React, Node.js, Next.js, and Express.js. I have experience working with databases like MySQL and MongoDB. I'm also comfortable working with version control systems like Git.
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<br />
 
-### 🔭 What are my current projects?
-
-I'm currently working on a web application for a senior computer science course as well as various projects for my classes. I'm also contributing to open-source projects on GitHub and participating in hackathons.
-
-### 📫 How to reach me?
-
-You can reach me through [email](mailto:landtroopt@gmail.com) or [LinkedIn](https://linkedin.com/in/tylerlandtroop). I'm always happy to connect with fellow programmers and tech enthusiasts!
-
-### ⚡ Fun fact
-
-When I'm not coding, I love to play video games and watch sci-fi movies. I also enjoy hiking and exploring new places.
 
 
-<!---
-tlandtroop/tlandtroop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 📊 Stats
+
+![Tyler's GitHub stats](https://github-readme-stats.vercel.app/api?username=tlandtroop&show_icons=true&theme=gruvbox)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5)
+
