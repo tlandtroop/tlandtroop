@@ -4,6 +4,8 @@
 
 As a third-year computer science student at the University of Florida, I'm passionate about building a digital world, one coding project at a time. I'm dedicated to the entire software development lifecycle, starting from the initial planning and design stages, and carrying it through to solve practical real-life problems. My journey involves tackling various challenges and honing my coding skills as I work on these projects.
 
+Portfolios: [official](https://tlandtroop.vercel.app) | [terminal](https://troopla.dev)
+
 ---
 
 ### 🧰 Languages and Tools
@@ -26,9 +28,9 @@ As a third-year computer science student at the University of Florida, I'm passi
 ### 📊 Stats
 
 
-![Tyler's GitHub stats](https://github-readme-stats.vercel.app/api?username=tlandtroop&show_icons=true&theme=tokyonight)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tlandtroop&show_icons=true&theme=tokyonight" alt="Tyler's stats">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=tlandtroop&theme=tokyonight&border_radius=4.5)
+<p align="center"> <img src="https://streak-stats.demolab.com?user=tlandtroop&theme=tokyonight&border_radius=4.5" alt="Tyler's streak">
 
 
 
