@@ -25,7 +25,7 @@ As a third-year computer science student at the University of Florida, I'm passi
 
 ### 📊 Stats
 
-![Tyler's GitHub stats](https://github-readme-stats.vercel.app/api?username=tlandtroop&show_icons=true&theme=gruvbox)
+![Tyler's GitHub stats](https://github-readme-stats.vercel.app/api?username=tlandtroop&show_icons=true&theme=dark) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=dark&border_radius=4.5)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5)
+
 
