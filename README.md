@@ -4,7 +4,7 @@
 
 As a third-year computer science student at the University of Florida, I'm passionate about building a digital world, one coding project at a time. I'm dedicated to the entire software development lifecycle, starting from the initial planning and design stages, and carrying it through to solve practical real-life problems. My journey involves tackling various challenges and honing my coding skills as I work on these projects.
 
-Portfolios: [official](https://tlandtroop.vercel.app) | [terminal](https://troopla.dev)
+Portfolio: [troopla.dev](https://troopla.dev)
 
 ---
 
